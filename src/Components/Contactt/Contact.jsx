@@ -13,7 +13,7 @@ const Contact = () => {
         <p>
         So please contact us to share your delightful experience with us for more sevices .</p>
         <div className="container">
-          <img src="/about.jpg" alt="about" />
+          <img src="/villa6.jpg" alt="about" />
           <div className="content">
               <h3>Let's connect</h3>
               <div>
